@@ -1,0 +1,13 @@
+{
+  "name": "polymerTest",
+  "version": "1.0.0",
+  "description": "test install",
+  "main": "index.js",
+  "repository": "https://github.com/isaacpartnership/polymerTest.git",
+  "author": "Tom Mankee",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2"
+  }
+}
